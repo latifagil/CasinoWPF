@@ -8,9 +8,9 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="RegistrationPage">
 
-    <Grid Background="#FFA3A3A3">
-        
-        <StackPanel Margin="176,70,188,140">
+    <Grid Background="#FFA3A3A3" Margin="0,0,0,-110">
+
+        <StackPanel Margin="176,70,188,109">
 
             <TextBlock Text="First Name:" Width="285"/>
             <TextBox x:Name="name" Width="285" Background="#FFD9D9D9" />
@@ -35,9 +35,9 @@
 
 
 
-            <Button Content="Save Changes" Click="BtnSave_Click" Width="285" Background="#FF7CFF4D" BorderBrush="#FF03FF00" />
-            <Button Content="Back" Click="BtnBack_Click" Width="285" Background="#FFFF6161" BorderBrush="#FFFF4242"/>
+            <Button Content="Save Changes" Click="BtnSave_Click" Width="304" Background="#FF7CFF4D" BorderBrush="#FF03FF00" Margin="70,10,10,10"/>
+            <Button Content="Back" Click="BtnBack_Click" Width="304" Background="#FFFF6161" BorderBrush="#FFFF4242" Margin="70,10,10,10"/>
         </StackPanel>
-        <Label Content="FREEBET 3000 BOUNUSES" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,317,0,0" VerticalAlignment="Top"/>
+        <Label Content="FREEBET 3000 BOUNUSES" FontSize="40" FontWeight="Bold" HorizontalAlignment="Left" Margin="325,472,0,0"  VerticalAlignment="Top" Width="172"/>
     </Grid>
 </Page>

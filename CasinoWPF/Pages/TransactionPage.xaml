@@ -10,11 +10,11 @@
 
     <Grid Background="White">
         <TextBlock x:Name="balanceBox" HorizontalAlignment="Center" FontWeight="Light" Margin="0,125,0,0" TextWrapping="Wrap" 
-                   Text="{Binding Balance}" VerticalAlignment="Top" FontSize="16" Height="28" Width="100"/>
-        <TextBox x:Name="addbalance" HorizontalAlignment="Center" Margin="0,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="45"/>
-        <Button Content="Add Money" HorizontalAlignment="Center" Margin="0,242,0,0" VerticalAlignment="Top" Width="201" Height="28" Background="White" Click="AddBtn_Click"/>
-        <Label FontSize="22" FontWeight="Heavy" HorizontalAlignment="Center" Margin="0,86,0,0" VerticalAlignment="Top" Content="How many bounuses you wanna add?"/>
-        <Button Content="Back" HorizontalAlignment="Center" Margin="0,275,0,0" VerticalAlignment="Top" Width="201" Height="28" Background="#FFFF9B9B" Click="BackBtn_Click"/>
+                   Text="{Binding Balance}" VerticalAlignment="Top" FontSize="16" Height="28" Width="100" Foreground="Black"/>
+        <TextBox  x:Name="addbalance" Width="285" Height="65" Background="#FFD9D9D9" Margin="258,180,257,225" />
+        <Button Content="Add Money" HorizontalAlignment="Center" Margin="0,315,0,0" VerticalAlignment="Top" Width="200" Height="33" Background="White" Click="AddBtn_Click" Foreground="Black"/>
+        <Label FontSize="22" FontWeight="Heavy" HorizontalAlignment="Center" Margin="0,86,0,0" VerticalAlignment="Top" Content="How many bounuses you wanna add?" Foreground="Black"/>
+        <Button Content="Back" HorizontalAlignment="Center" Margin="0,353,0,0" VerticalAlignment="Top" Width="200" Height="35" Background="#FFFF9B9B" Click="BackBtn_Click"/>
 
     </Grid>
 </Page>

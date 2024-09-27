@@ -52,5 +52,10 @@ namespace CasinoWPF.Pages
         {
             NavigationService.GoBack();
         }
+
+        private void addbalance_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

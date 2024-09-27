@@ -9,31 +9,31 @@
       Title="ProfilePage">
 
     <Grid Margin="20,20,20,200" Background="#FFCCCCCC">
-        <Label Content="Profile" VerticalAlignment="Top" FontWeight="Bold" HorizontalAlignment="Center" FontSize="24"/>
+        <Label Content="Profile" VerticalAlignment="Top" FontWeight="Bold" HorizontalAlignment="Center" FontSize="24" Foreground="Black"/>
 
         <TextBlock x:Name="FirstNameBox" HorizontalAlignment="Left" FontWeight="Medium" Margin="41,45,0,0" TextWrapping="Wrap" 
-                   Text="{Binding FirstName}" VerticalAlignment="Top" FontSize="20" Width="94"/>
+                   Text="{Binding FirstName}" VerticalAlignment="Top" FontSize="20" Width="94" Foreground="Black"/>
 
         <TextBlock x:Name="LastNameBox" HorizontalAlignment="Left"  FontWeight="Medium" Margin="125,45,0,0" TextWrapping="Wrap" 
-                   Text="{Binding LastName}" VerticalAlignment="Top" FontSize="20" Width="100"/>
+                   Text="{Binding LastName}" VerticalAlignment="Top" FontSize="20" Width="100" Foreground="Black"/>
 
         <TextBlock x:Name="UsernameBox" HorizontalAlignment="Left" FontWeight="Light" Margin="41,62,0,0" TextWrapping="Wrap" 
-                   Text="{Binding Username}" VerticalAlignment="Top" FontSize="16" Height="28" Width="101"/>
+                   Text="{Binding Username}" VerticalAlignment="Top" FontSize="16" Height="28" Width="101" Foreground="Black"/>
 
 
 
-        <Button Content="Add Money" HorizontalAlignment="Left" Margin="714,37,0,0" VerticalAlignment="Top" Width="130" Height="28" Background="White" Click="AddMoneyBtn_Click"/>
+        <Button Content="Add Money" Margin="707,33,0,0" VerticalAlignment="Top" Width="130" Height="28" Background="White" Click="AddMoneyBtn_Click" Foreground="Black"/>
 
-        <Label Margin="493,33,0,0"   VerticalAlignment="Top" x:Name="BalanceBox" HorizontalAlignment="Left" Content="Balance" FontWeight="Medium"  FontSize="20"/>
-        <Label VerticalAlignment="Top" x:Name="DateregBox" HorizontalAlignment="Left" Content="Registration Date:" FontWeight="Regular"  FontSize="16" Margin="495,74,0,0"/>
+        <Label Margin="493,33,0,0"   VerticalAlignment="Top" x:Name="BalanceBox" HorizontalAlignment="Left" Content="Balance" FontWeight="Medium"  FontSize="20" Foreground="Black"/>
+        <Label VerticalAlignment="Top" x:Name="DateregBox" HorizontalAlignment="Left" Content="Registration Date:" FontWeight="Regular"  FontSize="16" Margin="495,74,0,0" Foreground="Black"/>
 
         <TextBlock VerticalAlignment="Top" x:Name="DateBox" HorizontalAlignment="Left" FontWeight="Regular" TextWrapping="Wrap"  FontSize="16" Margin="635,78,0,0" 
-                   Text="{Binding RegistrationDate, StringFormat='dd.MM.yyyy'}" Width="193"/>
+                   Text="{Binding RegistrationDate, StringFormat='dd.MM.yyyy'}" Width="193" Foreground="Black"/>
 
         <Button Content="Edit Profile" HorizontalAlignment="Left" Margin="67,311,0,0" VerticalAlignment="Top" Width="158" Height="28" Background="Black" Foreground="White" Click="EditBtn_Click"/>
-        <Button Content="Show Balance" HorizontalAlignment="Left" Margin="579,37,0,0" VerticalAlignment="Top" Width="130" Height="28" Background="White" Click="ShowBtn_Click"/>
+        <Button Content="Show Balance" Margin="572,30,0,0" VerticalAlignment="Top" Width="130" Height="28" Background="White" Click="ShowBtn_Click" Foreground="Black"/>
         <Button Content="Exit" HorizontalAlignment="Left" Margin="624,311,0,0" VerticalAlignment="Top" Width="155" Height="28" Background="#FFFF4444" Foreground="White" Click="BackBtn_Click"/>
-        <Button Content="Enter to game" HorizontalAlignment="Center" VerticalAlignment="Top" Width="264" Height="50" Background="White" Click="GameBtn_Click" Margin="0,300,0,0"/>
+        <Button Content="Enter to game" HorizontalAlignment="Center" VerticalAlignment="Top" Width="264" Height="50" Background="White" Click="GameBtn_Click" Margin="0,300,0,0" Foreground="Black"/>
 
     </Grid>
 

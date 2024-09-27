@@ -5,27 +5,27 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CasinoWPF.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="600" d:DesignWidth="800"
       Title="EditPage">
 
-    <Grid Background="#FFA3A3A3">
+    <Grid Background="#FFA3A3A3" Margin="0,0,0,-100">
 
         <StackPanel Margin="176,70,188,140">
 
             <TextBlock Text="First Name:" Width="285"/>
-            <TextBox x:Name="name" Width="285" Background="#FFD9D9D9" Tag="{Binding FirstName}"/>
+            <TextBox x:Name="name" Width="285" Background="#FFD9D9D9" Tag="{Binding FirstName}" Foreground="Black"/>
 
             <TextBlock Text="Last Name:" Width="285"/>
-            <TextBox x:Name="lastname" Width="285" Background="#FFD9D9D9" Tag="{Binding LastName}" />
+            <TextBox x:Name="lastname" Width="285" Background="#FFD9D9D9" Tag="{Binding LastName}" Foreground="Black"/>
 
             <TextBlock Text="Username:" Width="285"/>
-            <TextBox x:Name="username" Width="285" Background="#FFD9D9D9" Tag="{Binding Username}"/>
+            <TextBox x:Name="username" Width="285" Background="#FFD9D9D9" Tag="{Binding Username}" Foreground="Black"/>
 
             <TextBlock Text="Email:" Width="285"/>
-            <TextBox x:Name="email" Width="285" Background="#FFD9D9D9" Tag="{Binding Email}"/>
+            <TextBox x:Name="email" Width="285" Background="#FFD9D9D9" Tag="{Binding Email}" Foreground="Black"/>
 
             <TextBlock Text="Password:" Width="285"/>
-            <TextBox x:Name="password" Width="285" Background="#FFD9D9D9" Tag="{Binding Username}"/>
+            <TextBox x:Name="password" Width="285" Background="#FFD9D9D9" Tag="{Binding Username}" Foreground="Black"/>
 
 
 
@@ -35,8 +35,8 @@
 
 
 
-            <Button Content="Save Changes" Click="BtnSave_Click" Width="285" Background="#FF7CFF4D" BorderBrush="#FF03FF00" />
-            <Button Content="Back" Click="BtnBack_Click" Width="285" Background="#FFFF6161" BorderBrush="#FFFF4242"/>
+            <Button Content="Save Changes" Click="BtnSave_Click" Width="294" Background="#FF7CFF4D" BorderBrush="#FF03FF00" Margin="70, 10, 10, 10" />
+            <Button Content="Back" Click="BtnBack_Click" Width="299" Background="#FFFF6161" BorderBrush="#FFFF4242"  Margin="70, 10, 10, 10" />
         </StackPanel>
     </Grid>
 </Page>

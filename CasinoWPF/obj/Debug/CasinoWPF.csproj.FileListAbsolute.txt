@@ -32,3 +32,8 @@ C:\Users\user\source\repos\CasinoWPF\CasinoWPF\obj\Debug\Pages\TransactionPage.g
 C:\Users\user\source\repos\CasinoWPF\CasinoWPF\obj\Debug\Pages\TransactionPage.baml
 C:\Users\user\source\repos\CasinoWPF\CasinoWPF\obj\Debug\Pages\Game.g.cs
 C:\Users\user\source\repos\CasinoWPF\CasinoWPF\obj\Debug\Pages\Game.baml
+C:\Users\user\source\repos\CasinoWPF\CasinoWPF\bin\Debug\Wpf.Ui.dll
+C:\Users\user\source\repos\CasinoWPF\CasinoWPF\bin\Debug\Wpf.Ui.pdb
+C:\Users\user\source\repos\CasinoWPF\CasinoWPF\bin\Debug\Wpf.Ui.xml
+C:\Users\user\source\repos\CasinoWPF\CasinoWPF\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\source\repos\CasinoWPF\CasinoWPF\obj\Debug\App.baml

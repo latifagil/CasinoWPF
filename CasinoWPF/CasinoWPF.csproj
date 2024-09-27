@@ -201,7 +201,6 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
-    <Resource Include="Images\first.jpg" />
     <Resource Include="Images\casino.jpg" />
   </ItemGroup>
   <ItemGroup>
