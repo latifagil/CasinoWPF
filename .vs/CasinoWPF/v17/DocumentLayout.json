@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CasinoWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|c:\\users\\user\\source\\repos\\casinowpf\\casinowpf\\pages\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|c:\\users\\user\\source\\repos\\casinowpf\\casinowpf\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|c:\\users\\user\\source\\repos\\casinowpf\\casinowpf\\pages\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\transactionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\transactionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|c:\\users\\user\\source\\repos\\casinowpf\\casinowpf\\pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\editpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\pages\\editpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|C:\\Users\\user\\source\\repos\\CasinoWPF\\casinowpf\\dbmodel\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\dbmodel\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|c:\\users\\user\\source\\repos\\casinowpf\\casinowpf\\dbmodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9F2E89BB-E994-4AE3-AC15-9E37706AEAF7}|CasinoWPF\\CasinoWPF.csproj|solutionrelative:casinowpf\\dbmodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1406283563:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pages\\Game.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\Game.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\Game.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\Game.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\Game.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:11:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\Game.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\Game.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\Game.xaml",
+              "RelativeToolTip": "CasinoWPF\\Pages\\Game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T06:48:01.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\EditPage.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\EditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\EditPage.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\EditPage.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:52:05.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:29:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\DBModel\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\DBModel\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\DBModel\\ConnectionClass.cs",
+              "RelativeToolTip": "CasinoWPF\\DBModel\\ConnectionClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:59:53.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:19:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\DBModel\\Model1.edmx",
+              "RelativeDocumentMoniker": "CasinoWPF\\DBModel\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\DBModel\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CasinoWPF\\DBModel\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-25T16:16:22.43Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\TransactionPage.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\TransactionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\TransactionPage.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\TransactionPage.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowCwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:13:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\App.config",
+              "RelativeDocumentMoniker": "CasinoWPF\\App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\App.config",
+              "RelativeToolTip": "CasinoWPF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-23T17:28:47.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\App.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\App.xaml",
+              "RelativeToolTip": "CasinoWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T17:28:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "CasinoWPF\\Pages\\ProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T12:41:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\EditPage.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\EditPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\EditPage.xaml",
+              "RelativeToolTip": "CasinoWPF\\Pages\\EditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T12:41:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:20:18.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "CasinoWPF\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwD0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:18:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\MainWindow.xaml",
+              "RelativeToolTip": "CasinoWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T12:18:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "CasinoWPF\\Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T12:33:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\TransactionPage.xaml",
+              "RelativeDocumentMoniker": "CasinoWPF\\Pages\\TransactionPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CasinoWPF\\CasinoWPF\\Pages\\TransactionPage.xaml",
+              "RelativeToolTip": "CasinoWPF\\Pages\\TransactionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-23T12:17:06.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
