@@ -53,9 +53,18 @@ namespace CasinoWPF.Pages
             NavigationService.GoBack();
         }
 
-        private void addbalance_TextChanged(object sender, TextChangedEventArgs e)
+        private void GetBtn_Click(object sender, RoutedEventArgs e)
         {
+            if (Convert.ToDecimal(addbalance.Text) < 0 || Convert.ToDecimal(addbalance.Text) > userObj.Balance)
+            {
+                MessageBox.Show("Value must be positive and less or equal than your balance");
+                return;
+            }
 
+            userObj.Balance -= Convert.ToDecimal(addbalance.Text);
+            balanceBox.Text = Convert.ToString(Convert.ToDecimal(balanceBox.Text) - Convert.ToDecimal(addbalance.Text));
+
+            ConnectionClass.casino.SaveChanges();
         }
     }
 }
